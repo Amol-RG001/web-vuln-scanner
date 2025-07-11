@@ -27,7 +27,7 @@ This Python-based tool scans a target website for common security vulnerabilitie
 
 ```bash
 
-git clone https://github.com/yourusername/website-vulnerability-scanner.git
+git clone https://github.com/Amol-RG001/web-vuln-scanner.git
 cd website-vulnerability-scanner
 ```
 ### 2. Project Structure
